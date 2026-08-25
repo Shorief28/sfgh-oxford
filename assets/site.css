@@ -81,7 +81,7 @@ p{margin:0 0 1em}
 .mainnav a[aria-current="page"]{color:var(--ink);font-weight:600;border-color:var(--signal-ink)}
 /* the nav CTA is a button, not a nav link — .mainnav a would otherwise paint its
    label --ink-2 on the --ink pill, which is 1.39:1 and unreadable */
-.mainnav .nav-cta a{color:var(--paper);border:1.5px solid var(--ink)}
+.mainnav .nav-cta a{color:var(--paper);border:1.5px solid var(--ink);padding:12px 22px}
 .mainnav .nav-cta a:hover{color:var(--paper);border-color:var(--ink-2)}
 
 .menu-btn{
