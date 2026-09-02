@@ -16,6 +16,7 @@
   --signal:#FF8A3D;     /* Bright amber. ONLY as a background or on dark ink. */
   --signal-ink:#A63D00; /* Amber for TEXT on light backgrounds.      5.8:1 */
   --marker:#C94E00;     /* Amber for small graphics on light.        4.2:1 */
+  --brand-red:#ED1C2E; /* National SfGH mark. Graphic only, never text. 3.9:1 on paper */
   --focus:#0B57D0;
 
   --display:"Bricolage Grotesque",system-ui,sans-serif;
